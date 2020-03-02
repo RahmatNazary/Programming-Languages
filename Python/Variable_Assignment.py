@@ -1,3 +1,4 @@
+#You use = Operator to Assign a value to any varaible 
 age=25
 name="John Doe"
 
