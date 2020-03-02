@@ -1,0 +1,12 @@
+These are some of the Data Types
+
+Name            Types               Description
+
+Integer          int                 Whole numbers 2,10,15
+Floating Point   float               Floating point numbers 1.5 , 2.5 
+Strings          str                 "hello", 'John Doe' 
+Lists            list                 [10,"Buddy","Cat",2.5]
+Dictionaries     dict                 {"key":"value"} Exmp {"Name":"Rahmat","Age":25}
+Tuples           tup                   (10,"USA",2.5)
+Sets             set                  {"a","b"}
+Boolean          bool                   True / False
